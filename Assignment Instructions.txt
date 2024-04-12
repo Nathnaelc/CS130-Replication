@@ -1,0 +1,45 @@
+The Final Project will take the form of a response article (for any sensible audience) that includes a written replication and extension of results appearing in a published work.
+
+The first step is to identify a paper with data and code and something in that paper you want to replicate.
+
+You must try to replicate something for which data and code are publicly available on the Internet AND intelligible to you. Do not expect an author to send you data and/or code, and do not use code written in a language you don't understand. In particular, STATA code is complicated to work with unless you have access to a computer running STATA and know how to use it. Many students satisfy neither condition.
+
+The replication paper is my own assignment from last year 2023. The paper I wrote is attached to this model. It is about "How Hosting the Olympics Increased London’s Employment Rate" using Synthetic Control.
+
+How to write a response article?
+Generally, your paper would have two parts: a summary of the main paper, the replicated part, and the extension (text used from Writing a Response or Reaction Paper from Hunter College).
+
+In the summary part:
+Identify the author and title of the work and include in parentheses the publisher and publication date.
+Write a short but informative summary of the material. 1-2 paragraphs are ideal for this part.
+You should mention whether it's a causal inference or a predictive inference analysis. If it's a causal inference analysis, the exact causal question is being answered in the paper. You may be graded based on #decisionquestion here.
+Condense the content of the work by highlighting its main points and key supporting points.
+Use direct quotations from the work to illustrate important ideas.
+Summarize the material so that the reader gets a general sense of all key aspects of the original work.
+You may be graded for #decisionbrief for the writing. The paper is structured professionally, has all the required sections, has a title section with the names, and has a detailed statement of contribution.
+You should also talk briefly about the data and where you accessed it. You may be graded based on #decisiondata
+In the replication part:
+You should not replicate everything in a given paper. Just find one element of a paper (like a figure or a table, or a finding) reproduce it. You may be graded based on #dataviz.
+The replicated part cannot be the summary statistics tables.
+The replication and extension must involve analysis and discussion that clearly engages with the concepts and tools covered in the course.
+Make sure you label your produced table or graph correctly.
+You should explain the method that you're describing imagining your audience doesn't understand the method. You may be graded based on #decisiontheory.
+In the extension part:
+Extend it a little bit using something you've learned from the course. An example would be to add sensitivity analysis, use newer data, change the causal inference method, or change the matching method used in the paper.
+Don't do something super simple.
+You may be graded for #decisionreview for comparing your approach to the approach in the main paper and #decisionanalysis for your analysis and code.
+You should justify the method you are using in the extension part. You may be graded based on #deccisiondesign.
+
+General notes
+You will need the data for that paper to be available to you to do this project.
+Organize your material. A good paper has a title page, an executive summary, an introduction, the replication part, the extension part, and a conclusion/discussion part.
+Edit the paper carefully for errors in grammar, mechanics, punctuation, word use, and spelling.
+Cite your sources and add a reference list at the end, but you can follow any citation style.
+Have a title page with the name of each person on the project.
+Make sure you link to the code/data that you use. You can use GitHub or google drive for linking to your code/data. If we don't have access to those at the time of grading, you will get a one on #decitionanaysis.
+Stick to the Facts.
+You can tag up to 2 HCs, but you have to justify them clearly. Please make sure they're relevant, and make sure you use footnotes for explaining the justification.
+Your grade on #decisionbrief will go down by 1 point if you don't have a contribution statement if the project is done by more than one person. You should explain what each person did in detail in one paragraph.
+Your audience should be the authors of the main study.
+The writing should be 7 pages maximum excluding the title page, appendices, and references.
+
